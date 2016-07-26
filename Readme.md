@@ -6,7 +6,7 @@ This library uses the File API to read an image and show its preview.
 
 - **inputSelector:** The selector for the `input` element.
 - **previewSelector:** The selector for the preview container.
-- **imgClass:** The CSS class for the preview images.
+- **imgClass:** The CSS class for the preview image.
 
 ## Usage ##
 
